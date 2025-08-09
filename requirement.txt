@@ -1,0 +1,13 @@
+streamlit>=1.25
+python-dotenv
+langchain
+langgraph
+langchain-google-genai
+langchain-openai
+langchain-anthropic
+langchain-groq
+langchain-cohere
+langchain-deepseek
+langchain-community   # includes stability, deepseek, perplexity wrappers
+streamlit-webrtc google-generativeai
+pyjwt
